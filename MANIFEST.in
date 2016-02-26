@@ -1,0 +1,5 @@
+include MANIFEST.in
+include README.rst
+recursive-include leonardo_keeweb/static *
+recursive-include leonardo_keeweb/locale *
+recursive-include leonardo_keeweb/templates *

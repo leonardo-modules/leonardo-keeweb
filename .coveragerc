@@ -1,0 +1,5 @@
+[run]
+source = leonardo_keeweb
+omit =
+    *migrations*
+    leonardo_keeweb/__init__.py
