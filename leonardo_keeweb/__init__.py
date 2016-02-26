@@ -8,6 +8,8 @@ LEONARDO_APPS = ['leonardo_keeweb']
 
 LEONARDO_PUBLIC = True
 
+LEONARDO_OPTGROUP = 'KeeWeb'
+
 LEONARDO_CONFIG = {
     'LEONARDO_KEEWEB_PUBLIC': (True, 'Make keeweb accessible without login.'),
     'LEONARDO_KEEWEB_PATH': ('keeweb/', 'Set custom URL.'),
